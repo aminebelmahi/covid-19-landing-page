@@ -8,9 +8,9 @@ Covid-19 Landing Page
 
 ## Screenshots
 ### Desktop
-<img src="https://ibb.co/0Y5sp1H">
+<img src="https://ibb.co/0Y5sp1H"></img>
 ### Mobile
-<img src="https://ibb.co/K07CfRv">
+<img src="https://ibb.co/K07CfRv"></img>
 
 ## 
 Converting a design from Dribbble into a landing page with HTML/CSS/JAVASCRIPT.
